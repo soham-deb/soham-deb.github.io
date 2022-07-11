@@ -260,6 +260,15 @@
   .col-1{
     width:100%;
   }
+  .col-2{
+    width:100%
+  }
+  .col{
+    width:100%
+  }
+  .content{
+    width:100%
+  }
   }
   @media all and (max-width:600px){
     .col-3{
