@@ -339,6 +339,10 @@
   .messageform{
     padding-left: 75px;
   }
+  .response{
+    text-align: center;
+    font-size: 3em;
+  }
   }
   @media all and (max-width:600px){
     .col-3{
